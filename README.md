@@ -12,8 +12,10 @@ This project focuses on detecting fake news articles using Natural Language Proc
 ## Tech Stack
 - Python
 - Scikit-learn
+- EDA
 - NLP (TF-IDF)
 - Pandas, NumPy
+- Feature Selection
 
 ## Approach
 1. Collected and prepared textual dataset of news articles  
